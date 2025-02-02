@@ -33,3 +33,7 @@
 
 ---
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=RakeshThapa332&color=blue&style=flat)  
+
+---
