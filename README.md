@@ -1,16 +1,35 @@
-<h3 >Computer Engineering Student</h3>
+# Rakesh Thapa  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshthapa332&label=Profile%20views&color=0e75b6&style=flat" alt="RakeshThapa332" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Computer Engineering Student 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RakeshThapa332&show_icons=true&locale=en&layout=compact" alt="RakeshThapa332" /></p>
+## 🔧 Technologies & Tools  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshThapa332&show_icons=true&locale=en" alt="rakeshthapa332" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshThapa332&" alt="RakeshThapa332" /></p>
+## 📌 Check Out More Projects  
+🔗 Explore repositories and contributions at **[GitHub](https://github.com/RakeshThapa332)**  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RakeshThapa332)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+
+---
+
+## 📊 GitHub Stats  
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakeshThapa332&show_icons=true&theme=tokyonight)  
+
+## 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=RakeshThapa332&theme=tokyonight)  
+
+---
+
